@@ -19,3 +19,5 @@ You can combine different blocks to make your Arduino robot around move however 
 In order to convert my code into a file that's recognized by mBlock, I used mBlock's extension builder.
 
 🔗Here's a link to the website: https://ext.mblock.cc/#/login?r=/
+
+Every default value (e.g. 40 or 30) used in the code was defined as a parameter in the extension builder. This is why these values are changable in mBlock.
