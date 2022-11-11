@@ -20,4 +20,4 @@ In order to convert my code into a file that's recognized by mBlock, I used mBlo
 
 🔗Here's a link to the website: https://ext.mblock.cc/#/login?r=/
 
-Every default value (e.g. 40 or 30) used in the code was defined as a parameter in the extension builder. This is why these values are changable in mBlock.
+Every default value (e.g. 40 or 30) used in the code was defined as a parameter in the extension builder. This is how I made these values changable in mBlock.
