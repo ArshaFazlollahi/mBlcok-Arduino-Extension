@@ -1,4 +1,4 @@
-# mBlcok-Arduino-Extension
+# mBlock-Arduino-Extension
 ⭐An mBlock extension for Arduino Uno
 
 I made this mBlock extension for Exceed Robotics during my Co-Op semester. We designed a robot prototype and I coded this extension so that it would be used in their classes with the robot to teach programming to the students there.
